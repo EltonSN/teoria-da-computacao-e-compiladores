@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695173338 source:c:\users\elton.nascimento\documents\una\4_semestre\alocacaodinamica_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
