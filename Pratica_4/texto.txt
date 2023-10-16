@@ -1,0 +1,3 @@
+Tamanho da string: 6
+Reverso da string: 
+notle
